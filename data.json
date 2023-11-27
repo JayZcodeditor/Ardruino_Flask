@@ -1,0 +1,8 @@
+{
+  "sensors": [
+    {
+      "message": "{\"humidity\":68.000000, \"temperature\":25.400000}",
+      "id": 1
+    }
+  ]
+}
